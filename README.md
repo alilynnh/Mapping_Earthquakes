@@ -21,7 +21,7 @@ The markers for the earthquakes are color coded and sized with respect to the ea
 
 ## Result
 **All Earthquakes**  
-![](Resources/earthquake_map.png)   
+![](Earthquake_Challenge/Resources/earthquake_map.png)   
 
 **Only Major Earthquakes** 
-![](Resources/majorEQ_map.png)
+![](Earthquake_Challenge/Resources/majorEQ_map.png)
