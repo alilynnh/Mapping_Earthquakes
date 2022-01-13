@@ -1,4 +1,4 @@
-# Mapping Erathquakes
+# Mapping Earthquakes
 ## Project Overview
 The goal of this project was to create a dashboard that would display both global earthquake data and tectonic plate boundaries. 
 
